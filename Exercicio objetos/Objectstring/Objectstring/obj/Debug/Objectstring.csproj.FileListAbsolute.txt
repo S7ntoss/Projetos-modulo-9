@@ -1,0 +1,7 @@
+C:\Users\53006\Documents\Github\Projetos do Modulo9\S7ntoss\Projetos-modulo-9\Exercicio objetos\Objectstring\Objectstring\bin\Debug\Objectstring.exe.config
+C:\Users\53006\Documents\Github\Projetos do Modulo9\S7ntoss\Projetos-modulo-9\Exercicio objetos\Objectstring\Objectstring\bin\Debug\Objectstring.exe
+C:\Users\53006\Documents\Github\Projetos do Modulo9\S7ntoss\Projetos-modulo-9\Exercicio objetos\Objectstring\Objectstring\bin\Debug\Objectstring.pdb
+C:\Users\53006\Documents\Github\Projetos do Modulo9\S7ntoss\Projetos-modulo-9\Exercicio objetos\Objectstring\Objectstring\obj\Debug\Objectstring.csproj.AssemblyReference.cache
+C:\Users\53006\Documents\Github\Projetos do Modulo9\S7ntoss\Projetos-modulo-9\Exercicio objetos\Objectstring\Objectstring\obj\Debug\Objectstring.csproj.CoreCompileInputs.cache
+C:\Users\53006\Documents\Github\Projetos do Modulo9\S7ntoss\Projetos-modulo-9\Exercicio objetos\Objectstring\Objectstring\obj\Debug\Objectstring.exe
+C:\Users\53006\Documents\Github\Projetos do Modulo9\S7ntoss\Projetos-modulo-9\Exercicio objetos\Objectstring\Objectstring\obj\Debug\Objectstring.pdb

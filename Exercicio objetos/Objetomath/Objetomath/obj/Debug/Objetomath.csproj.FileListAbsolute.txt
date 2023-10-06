@@ -1,0 +1,7 @@
+C:\Users\53006\Documents\Github\Projetos do Modulo9\S7ntoss\Projetos-modulo-9\Exercicio objetos\Objetomath\Objetomath\bin\Debug\Objetomath.exe.config
+C:\Users\53006\Documents\Github\Projetos do Modulo9\S7ntoss\Projetos-modulo-9\Exercicio objetos\Objetomath\Objetomath\bin\Debug\Objetomath.exe
+C:\Users\53006\Documents\Github\Projetos do Modulo9\S7ntoss\Projetos-modulo-9\Exercicio objetos\Objetomath\Objetomath\bin\Debug\Objetomath.pdb
+C:\Users\53006\Documents\Github\Projetos do Modulo9\S7ntoss\Projetos-modulo-9\Exercicio objetos\Objetomath\Objetomath\obj\Debug\Objetomath.csproj.AssemblyReference.cache
+C:\Users\53006\Documents\Github\Projetos do Modulo9\S7ntoss\Projetos-modulo-9\Exercicio objetos\Objetomath\Objetomath\obj\Debug\Objetomath.csproj.CoreCompileInputs.cache
+C:\Users\53006\Documents\Github\Projetos do Modulo9\S7ntoss\Projetos-modulo-9\Exercicio objetos\Objetomath\Objetomath\obj\Debug\Objetomath.exe
+C:\Users\53006\Documents\Github\Projetos do Modulo9\S7ntoss\Projetos-modulo-9\Exercicio objetos\Objetomath\Objetomath\obj\Debug\Objetomath.pdb
